@@ -41,7 +41,7 @@ public class MyServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	PrintWriter out=response.getWriter();
-	out.print("Hello DevOps Gems");
+	out.print("Hello DevOps Gems from Banglore");
 	
 		System.out.println("this is get");// TODO Auto-generated method stub
 	}
